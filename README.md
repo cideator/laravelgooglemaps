@@ -208,10 +208,6 @@ GMaps::isMarkerInsideGeofence($polygon, $latlngs); //both parameters should be i
 //return will also in array with boolean values like: array(true, false)
 ```
 
-### Contribution
-Proxy feature by @grimseer - Nov 22, 2016
-
-
 # Thank you for using!
 If you like it then click Fork!
 
